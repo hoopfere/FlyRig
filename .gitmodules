@@ -1,0 +1,3 @@
+[submodule "software/CCIS-2020-011-FlyRig"]
+	path = software/CCIS-2020-011-FlyRig
+	url = https://github.com/CC-IS/CCIS-2020-011-FlyRig.git
